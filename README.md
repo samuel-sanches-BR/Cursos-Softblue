@@ -1,5 +1,5 @@
 * # [Curso SQL Completo (BD-03) MySQL](https://github.com/samuel-sanches-BR/Cursos-Softblue/tree/Curso-SQL-SoftBlue)
-  * **[Certificate.](https://drive.google.com/open?id=1MFt9uJ_Ztd0Fa50JZU2xrE0js_G6BeiQ)** and **[authenticity](http://www.softblue.com.br/certificado/334117356A2E)**. Completed at August 14, 2018.
+  * **[Certificate](https://drive.google.com/open?id=1MFt9uJ_Ztd0Fa50JZU2xrE0js_G6BeiQ)** and **[authenticity](http://www.softblue.com.br/certificado/334117356A2E)**. Completed at August 14, 2018.
 -------------------------------------------------------
 
 * # [PHPAcademy](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/PHPAcademy/README.md)
