@@ -1,12 +1,7 @@
-# PHPAcademy-SoftBlue
-3 live video lessons taught by [SoftBlue](http://www.softblue.com.br), about basics in PHP. 
+# PHPAcademy-SoftBlue - Lesson 3
 
-With a 12-hour workload certificate, click **[here](https://github.com/samuel-sanches-BR/PHPAcademy-SoftBlue/blob/exercise-certified/341118645604.pdf)** to see the certificate and **[here](http://www.softblue.com.br/certificado/341118645604)** to see the authenticity.
-
-Below are the PHP codes made during the course.
-
-* ### [Lesson 1](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/lesson1-phpacademy/README.md): Introduction, variables, iteration, loops...
-    
-* ### [Lesson 2](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/lesson2-phpacademy/README.md): Forms, request, response, data validation, super variable... 
-  
-* ### [Lesson 3](https://github.com/samuel-sanches-BR/PHPAcademy-SoftBlue/tree/lesson3/): MySQL, PDO class, Complete Form: Integrating the registration form with the MySQL database
+* ### **Codes Made During Class**
+  * [Form in HTML](https://github.com/samuel-sanches-BR/PHPAcademy-SoftBlue/blob/exercise-certified/FormularioFinal.php)
+  * [PHP page to validate Form and Add to MySQL database (with SQL codes used to create the database in MySQL)](https://github.com/samuel-sanches-BR/PHPAcademy-SoftBlue/blob/exercise-certified/FormularioTratamentoFinal.php)
+  * [PHP page to show the content added at database](https://github.com/samuel-sanches-BR/PHPAcademy-SoftBlue/blob/exercise-certified/ListagemFinal.php)
+  * [Random Number](https://github.com/samuel-sanches-BR/PHPAcademy-SoftBlue/blob/exercise-certified/NumeroRandomico.php)
