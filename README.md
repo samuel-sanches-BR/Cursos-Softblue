@@ -1,5 +1,7 @@
 # Curso-SQL-SoftBlue https://goo.gl/wj8tNh
 
+### **[Certificate.](https://drive.google.com/open?id=1MFt9uJ_Ztd0Fa50JZU2xrE0js_G6BeiQ)** and **[authenticity](http://www.softblue.com.br/certificado/334117356A2E)**. Completed at August 14, 2018.
+
 Here are the MySQL scripts that I made to finish the course.
 
 The course is divided in 9 classes, with the following contents and exercises:
