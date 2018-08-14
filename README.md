@@ -52,11 +52,9 @@ The course is divided in 9 classes, with the following contents and exercises:
 
 * #### Class 6:
   * **Special Functions and Subqueries (theory)**
-  <!--
   * **Using Special Functions and Subqueries on MySQL (practical)**
   * **Module evaluation**
-  * **[Class Slides]()**
-  * **[SQL Script Made in Class]()**
-  * **[Proposed Exercises]()**
-      * [Resolution]()
--->
+  * **[Class Slides](https://drive.google.com/file/d/1hWyGyU4j00AeT9Dhd4fk_Dqp6h7FRppt/view?usp=sharing)**
+  * **[SQL Script Made in Class](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/exercises-slides-sql/ScriptFuncoesEspeciaisSubqueries.sql)**
+  * **[Proposed Exercises](https://drive.google.com/file/d/1CGmcw5JjGybdAJ7218aK99d_V3YLelIV/view?usp=sharing)**
+      * [Resolution](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/exercises-slides-sql/Class6Exe1.sql)
