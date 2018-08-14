@@ -45,7 +45,7 @@ The course is divided in 9 classes, with the following contents and exercises:
   * **Creating Relationships and Views on MySQL (practical)**
   * **Module evaluation**
   * **[Class Slides](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/exercises-slides-sql/05._Relacionamentos_e_Visoes.pdf)**
-  * **[SQL Script Made in Class]https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/exercises-slides-sql/ScriptRelacionamentoVisoes.sql)**
+  * **[SQL Script Made in Class](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/exercises-slides-sql/ScriptRelacionamentoVisoes.sql)**
   * **[Proposed Exercises](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/exercises-slides-sql/05.%20Exerc%C3%ADcios%20Propostos.pdf)**
       * [Resolution 1](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/exercises-slides-sql/Class5exer1.sql)
       * [Resolution 2](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/exercises-slides-sql/Class5exer2.sql)
@@ -58,3 +58,29 @@ The course is divided in 9 classes, with the following contents and exercises:
   * **[SQL Script Made in Class](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/exercises-slides-sql/ScriptFuncoesEspeciaisSubqueries.sql)**
   * **[Proposed Exercises](https://drive.google.com/file/d/1CGmcw5JjGybdAJ7218aK99d_V3YLelIV/view?usp=sharing)**
       * [Resolution](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/exercises-slides-sql/Class6Exe1.sql)
+      * [Resolution](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/exercises-slides-sql/Class6Exe2.sql)
+      
+* #### Class 7:
+  * **Access Control (theory)**
+  * **Managing Access on MySQL (practical)**
+  * **Module evaluation**
+  * **[Class Slides](https://drive.google.com/file/d/1kp1GdIlYbt0ktaTxkgpr1nhI00z6HnlW/view?usp=sharing)**
+  * **[SQL Script Made in Class](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/exercises-slides-sql/ScriptControleDeAcesso.sql)**
+  
+* #### Class 8:
+  * **ACID Transactions (theory)**
+  * **Executing a Transaction on MySQL (practical)**
+  * **Module evaluation**
+  * **[Class Slides](https://drive.google.com/open?id=1gYTAkj8ygds__4onNv86zodvI0uAs0uc)**
+  * **[SQL Script Made in Class](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/exercises-slides-sql/ScriptFuncoesEspeciaisSubqueries.sql)**
+  * **[Proposed Exercises](https://drive.google.com/open?id=10GgQRbDw1Sk5K4p97jpf9LbWT5BzX1Ty)**
+      * [Resolution](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/exercises-slides-sql/Class8Exe1.sql)
+     
+* #### Class 9:
+  * **Storage Procedures and Triggers (theory)**
+  * **Storage Procedures and Triggers on MySQL (practical)**
+  * **Final Considerations About SQL Course (theory)**
+  * **Module evaluation**
+  * **[Class Slides](https://drive.google.com/open?id=18DPGMGvp8sV7quFrHKnvQ4VXjxDcA9WM)**
+  * **[SQL Script Made in Class](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/exercises-slides-sql/ScriptStoredProceduresTriggers.sql)**
+      
