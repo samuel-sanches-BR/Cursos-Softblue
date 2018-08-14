@@ -1,7 +1,7 @@
 # PHPAcademy-SoftBlue
 3 live video lessons taught by [SoftBlue](http://www.softblue.com.br), about basics in PHP. 
 
-With a 12-hour workload certificate, click **[here](https://github.com/samuel-sanches-BR/PHPAcademy-SoftBlue/blob/exercise-certified/341118645604.pdf)** to see the certificate and **[here](http://www.softblue.com.br/certificado/341118645604)** to see the authenticity.
+With a 12-hour workload certificate, click **[here](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/exercise-phpacademy/341118645604.pdf)** to see the certificate and **[here](http://www.softblue.com.br/certificado/341118645604)** to see the authenticity.
 
 Below are the PHP codes made during the course.
 
