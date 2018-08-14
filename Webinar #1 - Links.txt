@@ -1,0 +1,12 @@
+Vídeo sobre instalação do Eclipse e JDK
+- http://www.javaacademy.com.br/ambientejava
+
+Javadoc
+- http://docs.oracle.com/javase/9/docs/api
+
+Java Tutorial: Language Basics
+- http://docs.oracle.com/javase/tutorial/java/javaOO/index.html
+
+Java Tutorial: Classes and Objects
+- http://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html
+
