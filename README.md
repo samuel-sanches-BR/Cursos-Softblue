@@ -9,4 +9,4 @@ Below are the PHP codes made during the course.
     
 * ### [Lesson 2](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/lesson2-phpacademy/README.md): Forms, request, response, data validation, super variable... 
   
-* ### [Lesson 3](https://github.com/samuel-sanches-BR/PHPAcademy-SoftBlue/tree/lesson3/): MySQL, PDO class, Complete Form: Integrating the registration form with the MySQL database
+* ### [Lesson 3](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/lesson3-phpacademy/README.md): MySQL, PDO class, Complete Form: Integrating the registration form with the MySQL database
