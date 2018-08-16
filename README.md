@@ -13,5 +13,5 @@
 -------------------------------------------------------
 
 * # [JavaAcademy](https://github.com/samuel-sanches-BR/Cursos-Softblue/tree/JAVAAcademy)
- * **[Certificate](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/exercise-javaacademy/JacaAcademy_certified.pdf)** and **[authenticity](http://soft.blue/certificado/33543159D645)**. Completed at June 25, 2018.
+  * **[Certificate](https://github.com/samuel-sanches-BR/Cursos-Softblue/blob/exercise-javaacademy/JacaAcademy_certified.pdf)** and **[authenticity](http://soft.blue/certificado/33543159D645)**. Completed at June 25, 2018.
 -------------------------------------------------------
