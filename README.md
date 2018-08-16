@@ -2,7 +2,7 @@
   * **[Certificate](https://drive.google.com/open?id=1MFt9uJ_Ztd0Fa50JZU2xrE0js_G6BeiQ)** and **[authenticity](http://www.softblue.com.br/certificado/334117356A2E)**. Completed at August 14, 2018.
 -------------------------------------------------------
 
-* # [Curso Lógica de Programação (LO-06)]()
+* # [Curso Lógica de Programação (LO-06)]() **(In progress)**
  <!-- * **[Certificate]()** and **[authenticity]()**. Completed at ? ?, 2018. -->
 -------------------------------------------------------
 
